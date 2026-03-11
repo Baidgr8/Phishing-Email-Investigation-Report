@@ -1,6 +1,5 @@
 # Phishing Email Investigation Report
 
-## SOC Portfolio Project #1
 
 **Incident Type:** Phishing – Malware Delivery  
 **Analyst:** Babafemi A. Ikujebi  
