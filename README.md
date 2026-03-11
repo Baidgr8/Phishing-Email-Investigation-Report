@@ -57,7 +57,7 @@ The incident was therefore classified as a **True Positive phishing attack with 
 
 ### Screenshot – Reported Email
 
-![Reported Email Screenshot A](screenshots/reported_email_A.png)
+![Reported Email Screenshot A](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/1d551815c8692af6e460c7a22df4f5c662c1dcad/email%20reported.PNG)
 
 ![Reported Email Screenshot B](screenshots/reported_email_B.png)
 
