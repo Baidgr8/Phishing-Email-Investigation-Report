@@ -80,14 +80,14 @@ I followed a structured SOC phishing investigation workflow:
 
 # Alert Details & Initial Triage
 
-During the initial review of the email, I identified several phishing indicators:
-
+During initial triage, I examined the email content and identified several phishing indicators:
 - Urgent and manipulative language
 - Unexpected attachment
 - External sender domain
-- Financial themed lure commonly used in malware campaigns
+- Financial-themed lure commonly associated with malware campaigns
 
-These indicators justified **full phishing investigation escalation**.
+Based on these initial observations, I classified the alert as suspicious and proceeded with a full phishing investigation.
+
 
 ---
 
