@@ -93,16 +93,16 @@ Based on these initial observations, I classified the alert as suspicious and pr
 
 # Email Content Analysis
 
-I analyzed the visible elements of the email to identify social-engineering techniques.
+I analyzed the visible components of the email to determine whether it displayed social-engineering or impersonation techniques.
 
-Key observations:
+Key observations included:
 
-- The **display name impersonated a financial institution representative**
-- The **sender email address did not match the legitimate domain**
-- The email contained **urgency-based language**
-- The message lacked **personalized corporate identifiers**
-
-These characteristics are commonly observed in **phishing campaigns designed to deliver malware**.
+- The sender’s **display name attempted to impersonate a trusted financial organization.**
+- The **sender email address did not match the legitimate domain of the organization being impersonated.**
+- The email used **urgency-based language** designed to pressure the recipient into opening the attachment.
+- The message **lacked personalized identifiers typically used in legitimate corporate communications.**
+  
+These elements are consistent with phishing campaigns designed to manipulate recipients into executing malicious content.
 
 ---
 
