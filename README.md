@@ -20,9 +20,8 @@
 | Severity | High |
 | Key Tools | MXToolbox, VirusTotal |
 | Attack Objective | Malware delivery & potential credential compromise |
-| MITRE ATT&CK Techniques | T1566.001 – Spearphishing Attachment |
-|  | T1036 – Masquerading |
-| Incident Status | Confirmed True Positive |
+| PrimaryTechniques | T1566.001 – Spearphishing Attachment,T1036 – Masquerading 
+| Status | Confirmed True Positive |
 | Escalation | Yes – Tier 2 recommended |
 
 ---
