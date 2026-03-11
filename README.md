@@ -123,7 +123,7 @@ To validate the authenticity of the message, I extracted the **full email header
 
 ### Screenshot – Header Analysis
 
-![MXToolbox Header Analysis](screenshots/header_analysis.png)
+![email header(raw file)](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/c09d403f7a1bc987ee30ee64470b61b85d040810/assets/email%20header%20raw%20file.PNG)
 
 ---
 
