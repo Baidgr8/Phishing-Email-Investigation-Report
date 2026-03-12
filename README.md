@@ -88,7 +88,7 @@ During initial triage, I examined the email content and identified several phish
 
 Based on these initial observations, I classified the alert as suspicious and proceeded with a full phishing investigation.
 
-
+![inital triage Screenshot C](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/060d780e57a083ee03240e6e55f988e1dae6dd63/assets/AT1.PNG)
 ---
 
 # Email Content Analysis
