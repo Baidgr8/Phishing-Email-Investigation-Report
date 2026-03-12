@@ -188,7 +188,7 @@ MIME analysis confirmed the file was **actually a RAR archive containing executa
 
 ### Screenshot – VirusTotal Results
 
-![VirusTotal Results](screenshots/virustotal_results.png)
+![VirusTotal Results](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/0b5b83ce6a95cf4778841fa78f82ba3d5566fa5b/assets/hash%20lookup%20on%20virustotal.PNG)
 
 VirusTotal analysis confirmed:
 
