@@ -124,7 +124,7 @@ To validate the authenticity of the message, I extracted the **full email header
 ### Screenshot – Header Analysis
 
 ![email header(raw file)](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/c09d403f7a1bc987ee30ee64470b61b85d040810/assets/email%20header%20raw%20file.PNG)
-![email header analysis MXToolbox (raw file)](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/ab7a0776de44cfaf113a16dffd90841002e95f73/assets/parser%20email%20header%20raw%20file.PNG)
+![email header analysis MXToolbox (raw file)](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/4debd3c8e478b7844fc2fd58010a9f614e948cc5/assets/parser%20analysis%20result2.PNG)
 ---
 
 ## Header Findings
