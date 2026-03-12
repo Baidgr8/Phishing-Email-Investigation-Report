@@ -241,8 +241,28 @@ VirusTotal analysis confirmed:
 
 These indicators were documented for **security monitoring and blocking**.
 
+# MITRE ATT&CK Mapping
+
+| Tactic | Technique | ID | Description |
+|------|------|------|------|
+| Initial Access | Spearphishing Attachment | T1566.001 | Malicious attachment used to deliver malware |
+| Defense Evasion | Masquerading | T1036 | File disguised as legitimate document |
+| Execution | User Execution | T1204 | Malware relies on user opening attachment |
 ---
 
+# Attack Flow Analysis
+
+The phishing attack followed a typical malware delivery chain:
+
+1. Attacker sends spoofed phishing email.
+2. Email bypasses gateway due to weak DMARC policy.
+3. User receives malicious attachment disguised as financial document.
+4. Attachment contains compressed archive with malware payload.
+5. If executed, malware installs on endpoint and may download additional payloads.
+
+Attack Chain:
+
+Phishing Email → Malicious Attachment → User Execution → Malware Installation → Potential Credential Theft / System Compromise
 # Findings
 
 The investigation produced the following key findings:
@@ -267,10 +287,19 @@ If executed, the malware could have resulted in:
 - Secondary malware download
 
 ---
+# Detection Opportunities
+
+Security monitoring systems could detect this attack using the following methods:
+
+• Email gateway alerts for SPF authentication failures  
+• Detection rules for double file extensions (e.g. *.pdf.exe or disguised archives)  
+• Monitoring attachments containing compressed archives from external senders  
+• Threat intelligence alerts for known malicious file hashes  
+• User-reported suspicious email alerts
 
 # Final Assessment
 
-The email was classified as a **True Positive phishing attack** with high potential impact.
+I classified the email as a **True Positive phishing attack** with high potential impact.
 
 Immediate containment and escalation were recommended.
 
