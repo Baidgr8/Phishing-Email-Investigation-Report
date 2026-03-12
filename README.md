@@ -25,6 +25,39 @@
 | Escalation | Yes – Tier 2 recommended |
 
 ---
+# Phishing Email Investigation Report
+
+## Project Overview (Recruiter Quick View)
+
+This project demonstrates a **SOC Tier 1 phishing investigation workflow** using a simulated corporate environment.
+
+A suspicious email reported by a user was analyzed to determine whether it represented a security threat. The investigation included:
+
+- Email header analysis (SPF, DKIM, DMARC)
+- Social engineering detection
+- Attachment malware analysis
+- Threat intelligence verification using VirusTotal
+- IOC extraction for detection and blocking
+
+### Key Findings
+
+- Spoofed sender domain with **SPF authentication failure**
+- **Malicious compressed attachment** disguised as a financial document
+- Malware payload confirmed via **VirusTotal detection (47/63 engines)**
+
+### Incident Classification
+
+**True Positive — High Severity Phishing Attack**
+
+### Skills Demonstrated
+
+- SOC alert triage
+- Email header investigation
+- Malware attachment analysis
+- IOC extraction
+- Threat intelligence analysis
+
+
 
 # Executive Summary
 
