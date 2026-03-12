@@ -25,7 +25,6 @@
 | Escalation | Yes – Tier 2 recommended |
 
 ---
-# Phishing Email Investigation Report
 
 ## Project Overview (Recruiter Quick View)
 
