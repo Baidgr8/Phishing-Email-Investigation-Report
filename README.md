@@ -166,7 +166,7 @@ The email contained a **compressed attachment disguised as a financial document*
 
 ### Screenshot – Hash Generation
 
-![Hash Generation Screenshot](screenshots/hash_generation.png)(https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/941f0b9a1302bef83f82685f53328d61a75e0473/assets/SHA256%20Hashing%20and%20file%20type.PNG)
+![Hash Generation Screenshot](https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/941f0b9a1302bef83f82685f53328d61a75e0473/assets/SHA256%20Hashing%20and%20file%20type.PNG)
 
 ---
 
