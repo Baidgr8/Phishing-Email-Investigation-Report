@@ -267,19 +267,19 @@ Phishing Email → Malicious Attachment → User Execution → Malware Installat
 
 The investigation produced the following key findings:
 
-### 1. Sender Spoofing
+#### 1. Sender Spoofing
 SPF authentication failure confirmed the message was not sent from authorized infrastructure.
 
-### 2. Malicious Attachment
+#### 2. Malicious Attachment
 The compressed attachment contained **malware payload disguised as a document**.
 
-### 3. Evasion Technique
+#### 3. Evasion Technique
 The attacker used **double file extension masquerading**.
 
-### 4. Social Engineering
+#### 4. Social Engineering
 The email used **financial transaction urgency** to manipulate the recipient.
 
-### 5. High Risk of Compromise
+#### 5. High Risk of Compromise
 If executed, the malware could have resulted in:
 
 - Endpoint compromise
