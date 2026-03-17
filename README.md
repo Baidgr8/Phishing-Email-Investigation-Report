@@ -245,9 +245,9 @@ These indicators were documented for **security monitoring and blocking**.
 
 | Tactic | Technique | ID | Description |
 |------|------|------|------|
-| Initial Access | Spearphishing Attachment | T1566.001 | Malicious attachment used to deliver malware |
-| Defense Evasion | Masquerading | T1036 | File disguised as legitimate document |
-| Execution | User Execution | T1204 | Malware relies on user opening attachment |
+| Initial Access | Spearphishing Attachment | <a href="https://attack.mitre.org/techniques/T1566/001/">T1566.001</a> | Malicious attachment used to deliver malware |
+| Defense Evasion | Masquerading | <a href= "https://attack.mitre.org/techniques/T1036/">T1036</a> | File disguised as legitimate document |
+| Execution | User Execution |<a href="https://attack.mitre.org/techniques/T1204/"> T1204 </a> | Malware relies on user opening attachment |
 ---
 
 # Attack Flow Analysis
